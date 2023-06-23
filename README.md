@@ -34,3 +34,9 @@
         - pandas
     - 주피터 노트북 사용법
     
+## 5일차
+- 파이썬 데이터분석
+    - 데이터분석 - 도메인 이해
+    - pandas
+    - numpy
+    - matplotlib
